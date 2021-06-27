@@ -19,8 +19,18 @@ public class EntradaDatosScanner {
 		int edad_usuario = entrada.nextInt();
 		System.out.println(edad_usuario);
 		
+		/*
+		 * Aplicando el Metodo next() de la clase Scanner
+		 *  
+		 * */
 		
-		
+		System.out.println("Ingrese una frase");
+		String frase1 = entrada.next();
+		String frase2 = entrada.next();
+		String frase3 = entrada.next();
+		System.out.println("La frase es: " + frase1);
+		System.out.println("La frase es: " + frase2);
+		System.out.println("La frase es: " + frase3);	
 		
 
 	}
