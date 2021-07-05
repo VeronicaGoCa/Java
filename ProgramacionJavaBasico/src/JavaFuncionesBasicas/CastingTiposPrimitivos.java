@@ -19,6 +19,7 @@ public class CastingTiposPrimitivos {
 		
 		double numero5 = 0.1;   //Ocupa un espacio de memoria de 64 bits
 		float numero6 = (float)numero5; //Ocupa un espacio de memoria de 32 bits
+		//float numero7 = 0.1f; //Ocupa un espacio de memoria de 32 bits
 		
 	/*
 	 * Nota.- Tomar en cuenta que si se hace un casting a una variable que es mayor
