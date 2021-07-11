@@ -60,8 +60,7 @@ public class Ejercicio1NotaFinal {
 				System.out.println("NOTA 2do Parcial : "+nota2doP);
 				System.out.println("NOTA 3er Parcial : "+nota3erP);
 				System.out.println("NOTA PRACTICAS : "+notaPracticas);
-				System.out.println("NOTA Asistencia : "+notaPracticas);
-				
+				System.out.println("NOTA Asistencia : "+notaPracticas);				
 				System.out.println("\nNOTA FINAL: "+NOTAFinal);
 				
 
